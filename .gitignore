@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+# Downloaded data (big files are not committed; src/data.py downloads them)
+data/*
+!data/.gitkeep
+# Model weights
+*.pt
+*.pth
