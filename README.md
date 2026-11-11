@@ -42,5 +42,5 @@ pip install -r requirements.txt
 ## Team
 | Member | GitHub | Main responsibility |
 |---|---|---|
-| Vasilis Karouanas | @vasiliskarouanas | TBD |
-| (classmate) | TBD | TBD |
+| Vasilis Karouanas | @vasiliskarouanas | Tree-based / feature-based models (RF, XGBoost) + one sequence model |
+| Petros | @pkogios | 2D pairing-matrix CNN with cross-attention |
